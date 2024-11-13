@@ -3,7 +3,7 @@ import random
 
 from pygame.examples.grid import WINDOW_HEIGHT
 
-SQUARE_SIZE = 25
+SQUARE_SIZE = 32
 GRID_WIDTH = 20
 GRID_HEIGHT = 19
 WIN_WIDTH = GRID_WIDTH * SQUARE_SIZE
